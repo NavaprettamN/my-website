@@ -7,9 +7,9 @@ const About = () => {
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
             </div>
-            <p className='text-xl mt-20'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur architecto nemo blanditiis cum eligendi mollitia voluptatibus nobis. Asperiores delectus vero fugit hic harum dicta nihil aperiam magni, inventore consequuntur aut!</p>
+            <p className='text-xl mt-20'>Welcome to my digital space! I'm Navaprettam N, an astute programmer with a rich background in Computer Science and Engineering. Fueled by an insatiable curiosity, I deftly navigate the technological landscape. Proficient in HTML, CSS, JavaScript (including React.js), Node.js, Express.js, MongoDB, PHP, Python, C, and Java, my diverse skill set is finely honed.</p>
             <br />
-            <p className='text-xl'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti cupiditate placeat possimus alias, ipsam iste non, esse quos pariatur perferendis ullam vitae unde aliquam cumque! Mollitia enim impedit ducimus quidem.</p>
+            <p className='text-xl'>With a solid academic foundation, I adeptly apply core software development principles to fashion elegant solutions. I've excelled in projects spanning dynamic front-end interfaces, robust server-side applications, and intricate database management. Renowned for diligence and adaptability, I am poised to contribute exceptional value to any tech-driven endeavor. Explore my portfolio for a glimpse into my world of innovation and problem-solving prowess.</p>
         </div>
     </div>
   )

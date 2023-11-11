@@ -13,7 +13,7 @@ const SocialLinks = () => {
                     LinkedIn <FaLinkedin size={30}/>
                 </>
             ),
-            href: "https://linkedin.com",
+            href: "https://www.linkedin.com/in/navaprettamn/",
             style: "rounded-tr-md"
         },
         {
@@ -23,7 +23,7 @@ const SocialLinks = () => {
                     GitHub <FaGithub size={30}/>
                 </>
             ),
-            href: "https://github.com",
+            href: "https://github.com/NavaprettamN",
             
         },
         {
@@ -42,7 +42,7 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill size={30}/>
                 </>
             ),
-            href: "/navaprettam.pdf",
+            href: "/Navaprettam_N.pdf",
             style: "rounded-br-md",
             download: true,
         }
