@@ -62,12 +62,12 @@ const Portfolio = () => {
             {
                 portfolios.map(({id, src, link_d, link_c}) => (
                     <div key={id} className='shadow-md shadow-gray-600 rounded-lg'>
-                    <img src={src} alt='' className='rounded-md duration-200 hover:scale-105' />
-                    <div className=' flex items-center justify-center'>
-                        <button className=' w-1/2 px-6 py-3 m-4 duration-300 hover:scale-105'><a href={link_d} target='_blank' rel='noreferrer'>Demo</a></button>
-                        <button className=' w-1/2 px-6 py-3 m-4 duration-300 hover:scale-105'><a href={link_c} target='_blank' rel='noreferrer'>Code</a></button>
+                        <img src={src} alt='' className='rounded-md duration-200 hover:scale-105' />
+                        <div className=' flex items-center justify-center'>
+                            <button className=' w-1/2 px-6 py-3 m-4 duration-300 hover:scale-105'><a href={link_d} target='_blank' rel='noreferrer'>Demo</a></button>
+                            <button className=' w-1/2 px-6 py-3 m-4 duration-300 hover:scale-105'><a href={link_c} target='_blank' rel='noreferrer'>Code</a></button>
+                        </div>
                     </div>
-                </div>
                 ))
             }
 
