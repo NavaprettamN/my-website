@@ -42,7 +42,7 @@ const Contact = () => {
               {
                 info.map(({id, c, link}) => (
                   <div key={id} className=''>
-                    <a href={link}><img src={c} className='w-1/2 rounded-md shadow-sm shadow-white'/></a>
+                    <a href={link}><img src={c} alt=''   className='w-1/2 rounded-md shadow-sm shadow-white'/></a>
                     <p></p>
                   </div>
                 ))
