@@ -17,6 +17,7 @@ import scss from "../assets/scss.png"
 import expressjs from "../assets/expressjs.png"
 import bun from "../assets/bun.png"
 import styledcomponents from "../assets/styledcomponents.png"
+import typescript from "../assets/typescript.png"
 
 const Experience = () => {
 
