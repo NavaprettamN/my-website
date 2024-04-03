@@ -61,6 +61,61 @@ const Experience = () => {
             title: 'Python',
             style: 'shadow-blue-200'
         },
+        {
+            id: 9,
+            src: python_img,
+            title: 'Node.js',
+            style: 'shadow-blue-200'
+        },
+        {
+            id: 10,
+            src: python_img,
+            title: 'Express.js',
+            style: 'shadow-blue-200'
+        },
+        {
+            id: 11,
+            src: python_img,
+            title: 'MongoDB',
+            style: 'shadow-blue-200'
+        },
+        {
+            id: 12,
+            src: python_img,
+            title: 'styled components',
+            style: 'shadow-blue-200'
+        },
+        {
+            id: 13,
+            src: python_img,
+            title: 'redux',
+            style: 'shadow-blue-200'
+        },
+        {
+            id: 14,
+            src: python_img,
+            title: 'Typescript',
+            style: 'shadow-blue-200'
+        },
+        {
+            id: 15,
+            src: python_img,
+            title: 'NextJS',
+            style: 'shadow-blue-200'
+        },
+        {
+            id: 16,
+            src: python_img,
+            title: 'SASS/SCSS',
+            style: 'shadow-blue-200'
+        },
+        {
+            id: 17,
+            src: python_img,
+            title: 'Bun',
+            style: 'shadow-blue-200'
+        },
+
     ]
 
   return (
