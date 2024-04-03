@@ -9,6 +9,14 @@ import java_img from "../assets/java_img.png"
 import tailwind_img from "../assets/tailwind_img.png"
 import github_img from "../assets/github_img.png"
 import react_img from "../assets/react_img.png"
+import nodejs from "../assets/Nodejs.png"
+import nextjs from "../assets/nextjs.png"
+import mongodb from "../assets/mongodb.png"
+import redux from "../assets/redux.png"
+import scss from "../assets/scss.png"
+import expressjs from "../assets/expressjs.png"
+import bun from "../assets/bun.png"
+import styledcomponents from "../assets/styledcomponents.png"
 
 const Experience = () => {
 
@@ -63,55 +71,55 @@ const Experience = () => {
         },
         {
             id: 9,
-            src: python_img,
+            src: nodejs,
             title: 'Node.js',
             style: 'shadow-blue-200'
         },
         {
             id: 10,
-            src: python_img,
+            src: expressjs,
             title: 'Express.js',
             style: 'shadow-blue-200'
         },
         {
             id: 11,
-            src: python_img,
+            src: mongodb,
             title: 'MongoDB',
             style: 'shadow-blue-200'
         },
         {
             id: 12,
-            src: python_img,
+            src: styledcomponents,
             title: 'styled components',
             style: 'shadow-blue-200'
         },
         {
             id: 13,
-            src: python_img,
+            src: redux,
             title: 'redux',
             style: 'shadow-blue-200'
         },
         {
             id: 14,
-            src: python_img,
+            src: typescript,
             title: 'Typescript',
             style: 'shadow-blue-200'
         },
         {
             id: 15,
-            src: python_img,
+            src: nextjs,
             title: 'NextJS',
             style: 'shadow-blue-200'
         },
         {
             id: 16,
-            src: python_img,
-            title: 'SASS/SCSS',
+            src: scss,
+            title: 'SCSS',
             style: 'shadow-blue-200'
         },
         {
             id: 17,
-            src: python_img,
+            src: bun,
             title: 'Bun',
             style: 'shadow-blue-200'
         },
